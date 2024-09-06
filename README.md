@@ -1,8 +1,5 @@
-# React + Vite
+# CropCast
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AI-ML based models for predicting prices of agri-horticultural commodities
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+AI-ML models that enhance price prediction accuracy by integrating more comprehensive datasets, including real-time market conditions and predictive analytics. This will empower the Department to make better-informed decisions, ultimately helping to stabilize prices and protect both consumers and farmers.
